@@ -1,1 +1,1 @@
-# deeplearning_kedney_project
+# deeplearning_kidney_project
